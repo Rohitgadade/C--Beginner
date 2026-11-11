@@ -1,0 +1,15 @@
+/workspaces/C--Beginner/bin/Debug/net10.0/Hello-world
+/workspaces/C--Beginner/bin/Debug/net10.0/Hello-world.deps.json
+/workspaces/C--Beginner/bin/Debug/net10.0/Hello-world.runtimeconfig.json
+/workspaces/C--Beginner/bin/Debug/net10.0/Hello-world.dll
+/workspaces/C--Beginner/bin/Debug/net10.0/Hello-world.pdb
+/workspaces/C--Beginner/obj/Debug/net10.0/Hello-world.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C--Beginner/obj/Debug/net10.0/Hello-world.AssemblyInfoInputs.cache
+/workspaces/C--Beginner/obj/Debug/net10.0/Hello-world.AssemblyInfo.cs
+/workspaces/C--Beginner/obj/Debug/net10.0/Hello-world.csproj.CoreCompileInputs.cache
+/workspaces/C--Beginner/obj/Debug/net10.0/Hello-world.sourcelink.json
+/workspaces/C--Beginner/obj/Debug/net10.0/Hello-world.dll
+/workspaces/C--Beginner/obj/Debug/net10.0/refint/Hello-world.dll
+/workspaces/C--Beginner/obj/Debug/net10.0/Hello-world.pdb
+/workspaces/C--Beginner/obj/Debug/net10.0/Hello-world.genruntimeconfig.cache
+/workspaces/C--Beginner/obj/Debug/net10.0/ref/Hello-world.dll
